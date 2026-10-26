@@ -1,9 +1,5 @@
 [
   {
-    "text": "learn javascript",
-    "done": true
-  },
-  {
     "text": "Learn DSA",
     "done": false
   }
